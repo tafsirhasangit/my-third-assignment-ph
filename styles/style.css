@@ -6,6 +6,9 @@
 .carousel-romen-img{
     filter: brightness(60%);
 }
+.center-romen{
+   margin: auto;
+}
 
 
 @media screen and (max-width: 576px) {

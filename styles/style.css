@@ -12,10 +12,7 @@
 
 
 @media screen and (max-width: 576px) {
-    body {
-        color: blue;
-
-    }
+   
     .carouse-romen{
         text-align: center;
         font-size: small;
@@ -24,4 +21,5 @@
     .carouse-romen img{
         height: 400px;
     }
+  
 }
